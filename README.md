@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tranhuyducseven
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning Data Structures and Algorithms. I feel so stress. :((
-- 💞️ I’m looking to collaborate AI, Web.
+- 💞️ I’m looking to collaborate on the AI.
 
 
 <!---
