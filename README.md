@@ -13,7 +13,7 @@
 - Major: Website  
 - Role: `Frontend developer`
 - Familiarity with RESTful APIs
-- Techs: `NextJS` `Redux` `ExpressJS`- 
+- Techs: `NextJS` `Redux` `ExpressJS` 
 - Languages: `Javascript` `Typescript` `PHP` `C++` `Python` `SQL` 
 - Learning: `Golang`
 
