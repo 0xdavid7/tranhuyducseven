@@ -16,6 +16,7 @@
 - Techs: `NextJS` `Redux` `ExpressJS` 
 - Languages: `Javascript` `Typescript` `PHP` `C++` `Python` `SQL` 
 - Learning: `Golang`
+- Member at https://github.com/de-v-in
 
 ### Features
 - Over 2 years of experience in programming with good communication and quick learning skills
