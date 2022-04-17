@@ -9,7 +9,7 @@
 - Name: Tran Huy Duc
 - Email: tranhuyducseven@gmail.com    |   duc.tran_ares@hcmut.edu.vn
 - School: Ho Chi Minh city University of Technology, Viet Nam
-- Member at `https://github.com/de-v-in`
+- Member at https://github.com/de-v-in
 - Operating systems: Linux(Ubuntu), Windows
 - Major: Website  
 - Role: `Frontend developer`
