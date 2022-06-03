@@ -16,7 +16,7 @@
 - Familiarity with RESTful APIs
 - Techs: `NextJS` `Redux` `ExpressJS` 
 - Languages: `Javascript` `Typescript` `PHP` `C++` `Python` `SQL` 
-- Learning: `Golang`
+- Learning: `Golang` `Rust`
 
 ### Features
 - Over 2 years of experience in programming with good communication and quick learning skills
