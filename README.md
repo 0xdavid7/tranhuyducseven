@@ -14,7 +14,7 @@
 - Major: Website  
 - Role: `Software developer`
 - Familiarity with RESTful APIs
-- Techs: `NextJS` `Redux` `ExpressJS` `UmiJS` `Ant Design`
+- Techs: `NextJS` `Redux` `ExpressJS` `Substrate` (newbie)
 - Languages: `Javascript` `Typescript` `C++` `SQL` `Go` (newbie), `Rust` (newbie)
 - Learning: `Golang`,  `Rust`
 - Text editor: `vscode`, `nvim` (beginer)
