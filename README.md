@@ -10,14 +10,15 @@
 - Email: tranhuyducseven@gmail.com    |   duc.tran_ares@hcmut.edu.vn
 - School: Ho Chi Minh city University of Technology, Viet Nam
 - Member at https://github.com/de-v-in  | https://1devin.vercel.app/
-- Operating systems: Linux(Ubuntu), Windows
 - Major: Website  
 - Role: `Software developer`
 - Familiarity with RESTful APIs
 - Techs: `NextJS` `Redux` `ExpressJS` `Substrate` (newbie)
-- Languages: `Javascript` `Typescript` `C++` `SQL` `Go` (newbie), `Rust` (newbie)
-- Learning: `Golang`,  `Rust`
-- Text editor: `vscode`, `nvim` (beginer)
+- Languages: `Javascript`, `Typescript`, `Go`, `Rust`, `C++`, `SQL`
+- Basic knowledge of DevOps: `Docker`, `docker-compose`, `CI/CD` (GitLab)
+- Operating systems: Linux (Debian)
+- My current research direction: `Rust`
+- Text editor: `vscode`, `nvim` 
 
 ### Features
 - Ability to learn and apply new technology quickly
