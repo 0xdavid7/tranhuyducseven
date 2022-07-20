@@ -3,7 +3,8 @@
  
 ### About me :v:
 - Name: Tran Huy Duc
-- Email: tranhuyducseven@gmail.com   
+- Email: tranhuyducseven@gmail.com
+- Other: duc.tran_ares@hcmut.edu.vn
 - School: Ho Chi Minh city University of Technology, Viet Nam
 - Member at [**deVin**](https://github.com/de-v-in)  - This is our [portfolio](https://1devin.vercel.app/)
 - Role: Software developer
