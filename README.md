@@ -1,28 +1,20 @@
+<div align="center">
+ <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuyducseven&hide_border=true)](https://git.io/streak-stats"/>   
+</div>
 
-<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuyducseven&hide_border=true)](https://git.io/streak-stats"/>   
- 
 ### About me :v:
-- Name: Tran Huy Duc
+- I am a software developer, my current research is Blockchain development. I won 3rd prize with Substrate and 1st with Near mini hackathons.
+- Techs: `NextJS`, `Substrate`, `Near`, `Solana`
+- Languages: `JS`, `TS`, `Go`, `Rust`, Java, `C/C++`, `SQL`
+- DevOps: `Docker`, `docker-compose`, `CI/CD` (GitLab)
+- I use `nvim` for coding. :technologist:
+- Our team deliver high-standard software products for crypto market [portfolio](https://1devin.vercel.app/).
+### Contact :mailbox_closed:
 - Email: tranhuyducseven@gmail.com
-- Other: duc.tran_ares@hcmut.edu.vn
-- School: Ho Chi Minh city University of Technology, Viet Nam
-- Member at [**deVin**](https://github.com/de-v-in)  - This is our [portfolio](https://1devin.vercel.app/)
-- Role: Software developer, Blockchain developer
-- Major: Web2 and Web3
+- [My Linked In](https://www.linkedin.com/in/tranhuyducseven/)
 
-<img align=right src="https://github-readme-stats.vercel.app/api?username=tranhuyducseven&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
 
-### Skills :collision:
-- Techs: `NextJS` `Redux` `ExpressJS` `Substrate` (newbie), Near, Solana
-- Languages: `Javascript`, `Typescript`, `Go`, `Rust`, `C++`, `SQL`
-- Basic knowledge of DevOps: `Docker`, `docker-compose`, `CI/CD` (GitLab)
-- Operating systems: Linux (Debian)
-- My current research direction: `Rust`
-- Text editor: `vscode`, `nvim` 
 
-### Features:
--  Sometimes, I have no life :laughing:
-- Try to be **Rustacean** :crab:
 
 
 
