@@ -11,7 +11,7 @@
 - Our team deliver high-standard software products for crypto market [portfolio](https://1devin.vercel.app/).
 ### Contact :mailbox_closed:
 - Email: tranhuyducseven@gmail.com
-- [My Linked In](https://www.linkedin.com/in/tranhuyducseven/)
+- [My LinkedIn](https://www.linkedin.com/in/tranhuyducseven/)
 
 
 
