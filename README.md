@@ -3,12 +3,13 @@
 </div>
 
 ### About me :v:
-- I am a software developer, my current research is Blockchain development. I won 3rd prize with Substrate and 1st with Near mini hackathons.
+- I am a software developer, my current research is Blockchain development. Recently, I won 3rd prize with Substrate and 1st with Near in hackathons.
 - Techs: `NextJS`, `Substrate`, `Near`, `Solana`
 - Languages: `JS`, `TS`, `Go`, `Rust`, `Java`, `C/C++`, `SQL`
+- Learning: Haskell
 - DevOps: `Docker`, `docker-compose`, `CI/CD` (GitLab)
 - I use `nvim` for coding. :technologist:
-- Our team deliver high-standard software products for crypto market [portfolio](https://1devin.vercel.app/).
+- Our team deliver high-standard software products for crypto market [Our portfolio](https://1devin.vercel.app/).
 ### Contact :mailbox_closed:
 - Email: tranhuyducseven@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/tranhuyducseven/)
