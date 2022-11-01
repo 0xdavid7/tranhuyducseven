@@ -8,7 +8,7 @@
 - Languages: `JS`, `TS`, `Go`, `Rust`, `Java`, `C/C++`
 - DevOps: `Docker`, `CI/CD (GitLab)`
 - I use `nvim` for coding. :technologist:
-- Our team deliver high-standard software products for crypto market - [our portfolio](https://1devin.vercel.app/).
+- Our team deliver high-standard software products for crypto market - [our portfolio](https://wearedevin.com/).
 ### Contact :mailbox_closed:
 - Email: tranhuyducseven@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/tranhuyducseven/)
