@@ -1,6 +1,6 @@
 <div align="center">
- <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuyducseven&hide_border=true)](https://git.io/streak-stats"/>   
-</div>
+ <img align=center src="https://github-readme-streak-stats.herokuapp.com?user=tranhuyducseven&theme=windows-dark&background=00000000"/>   
+ </div>
 
 ### About me :v:
 - I am a software developer, my current research is **Blockchain development**. Recently, I won 3rd prize with Substrate and 1st with Near in hackathons.
