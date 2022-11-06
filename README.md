@@ -1,5 +1,5 @@
 <div align="center">
- <img align=center src="https://github-readme-streak-stats.herokuapp.com?user=tranhuyducseven&theme=windows-dark&background=00000000"/>   
+ <img align=center src="https://github-readme-streak-stats.herokuapp.com?user=tranhuyducseven&theme=windows-dark&hide_border=true&background=00000000"/>   
  </div>
 
 ### About me :v:
