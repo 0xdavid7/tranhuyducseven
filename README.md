@@ -7,7 +7,7 @@
 - Techs:  `Substrate`, `Near`, `Solana`, `Flow`, `NextJS`, `PolkadotJS`
 - Languages: `Rust`, `Go`, `Java`, `C/C++`, `JS`, `TS`
 - DevOps: `Docker`, `Github Action`, `Gitlab Runner`
-- Our team deliver high-standard software products - [our portfolio](https://wearedevin.com/).
+- Our team deliver high-standard software products - [wearedevin](https://wearedevin.com/).
 ### Contact :mailbox_closed:
 - Email: tranhuyducseven@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/tranhuyducseven/)
