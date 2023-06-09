@@ -1,15 +1,17 @@
-# Tran Huy Duc @tranhuyducseven 
-## Blockchain developer,  a freelancer can do fullstack.
+# Hi guys, my name is Tran Huy Duc - @tranhuyducseven 
+## And also is a Blockchain developer  can do fullstack. :crab:
 
-### About me :v:
-- Languages: `Rust`, `Go`, `C/C++`, `TS`
-- Techs:  Currently focus on`Substrate`, `Near`, `Solana`, `Cosmos` also client development 
-- DevOps: Setup basic flows to delivery
-- Check us for dealing work [wearedevin](https://wearedevin.com/).
-- Another research [dvlabs](https://github.com/DV-Lab).
-### Contact :mailbox_closed:
+### 1. Languages: Rust, Go, C++, Javascript
+### 2. Domains:
+- #### `Substrate, Solana`, (can do Near, Cosmos and Ethereum)
+- #### ZKP and ZK-SNARKS.
+- #### DID and SSI.
+### 3. More :v:
+- Check us for dealing work [wearedevin.com](https://wearedevin.com/).
+- Some research [github.com/DV-Lab](https://github.com/DV-Lab).
+### 4. Contact :mailbox_closed:
 - Email: tranhuyducseven@gmail.com
-- [My LinkedIn](https://www.linkedin.com/in/tranhuyducseven/)
+- LinkedIn: [linkedin.com/in/tranhuyducseven](https://www.linkedin.com/in/tranhuyducseven/)
 
 
 
