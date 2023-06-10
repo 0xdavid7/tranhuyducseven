@@ -1,5 +1,5 @@
 # Hi guys, my name is Tran Huy Duc - @tranhuyducseven 
-## And also is a Blockchain developer  can do fullstack. :crab:
+## I am a Blockchain developer can do fullstack. :crab:
 
 ### 1. Languages: Rust, Go, C++, Javascript
 ### 2. Domains:
