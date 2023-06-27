@@ -1,23 +1,28 @@
-# Hi guys, my name is Tran Huy Duc - @tranhuyducseven 
-## I am a Blockchain developer can do fullstack. :crab:
+# Tran Huy Duc - Blockchain Developer | Fullstack Engineer 🦀
 
-### 1. Languages: Rust, Go, C++, Javascript
-### 2. Domains:
-- #### `Substrate, Solana`, (can do Near, Cosmos and Ethereum)
-- #### ZKP and ZK-SNARKS.
-- #### DID and SSI.
-### 3. More :v:
-- Check us for dealing work [wearedevin.com](https://wearedevin.com/).
-- Some research [github.com/DV-Lab](https://github.com/DV-Lab).
-### 4. Contact :mailbox_closed:
+Hi there! I'm Tran Huy Duc, a passionate Blockchain developer. I love diving into complex problems and building innovative solutions in the world of decentralized technologies.
+
+## Skills 💥
+
+- Languages: **Rust**, **Go**, C++, JavaScript
+- Blockchain Technologies: Substrate, Solana, Near, Cosmos, Ethereum
+- Areas of Study: Zero-Knowledge Proofs (ZKP), ZK-Snarks, Decentralized Identity (DID)
+
+## Projects and Research 🚀
+
+I'm constantly contributing to below organizations. Here are a few places where you can find my work:
+
+- Check out our team's work and collaborations at [wearedevin.com](https://wearedevin.com/).
+- Explore our research projects related to Web3 and blockchain at [github.com/DV-Lab](https://github.com/DV-Lab).
+
+## Contact 📪
+
+Feel free to reach out to me via the following channels:
+
 - Email: tranhuyducseven@gmail.com
-- LinkedIn: [linkedin.com/in/tranhuyducseven](https://www.linkedin.com/in/tranhuyducseven/)
+- LinkedIn: [linkedin.com/in/tranhuyducseven](https://www.linkedin.com/in/tranhuyducseven)
+- GitHub: [github.com/tranhuyducseven](https://github.com/tranhuyducseven)
 
+I'm open to exciting opportunities and collaborations, so don't hesitate to get in touch!
 
-
-
-
-
-
-
-
+Looking forward to connecting with you!
