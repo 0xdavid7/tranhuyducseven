@@ -5,7 +5,7 @@ Hi there! I'm Tran Huy Duc, a passionate Blockchain developer. I love diving int
 ## Skills 💥
 
 - Languages: **Rust**, **Go**, C++, JavaScript
-- Blockchain Technologies: Substrate, Solana, Near, Cosmos, Ethereum
+- Blockchain Technologies: Substrate (Polkadot), Ethereum
 - Areas of Study: Zero-Knowledge Proofs (ZKP), ZK-Snarks, Decentralized Identity (DID)
 
 ## Projects and Research 🚀
