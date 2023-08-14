@@ -8,13 +8,6 @@ Hi there! I'm Tran Huy Duc, a passionate Blockchain developer. I love diving int
 - Blockchain Technologies: Substrate (Polkadot), Ethereum
 - Areas of Study: Zero-Knowledge Proofs (ZKP), ZK-Snarks, Decentralized Identity (DID)
 
-## Projects and Research 🚀
-
-I'm constantly contributing to below organizations. Here are a few places where you can find my work:
-
-- Check out our team's work and collaborations at [wearedevin.com](https://wearedevin.com/).
-- Explore our research projects related to Web3 and blockchain at [github.com/DV-Lab](https://github.com/DV-Lab).
-
 ## Contact 📪
 
 Feel free to reach out to me via the following channels:
