@@ -14,7 +14,6 @@ Feel free to reach out to me via the following channels:
 
 - Email: tranhuyducseven@gmail.com
 - LinkedIn: [linkedin.com/in/tranhuyducseven](https://www.linkedin.com/in/tranhuyducseven)
-- GitHub: [github.com/tranhuyducseven](https://github.com/tranhuyducseven)
 
 I'm open to exciting opportunities and collaborations, so don't hesitate to get in touch!
 
