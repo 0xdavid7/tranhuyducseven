@@ -1,6 +1,6 @@
-# Tran Huy Duc - Blockchain Developer | Fullstack Engineer 🦀
+# David Tran - Blockchain Developer | Fullstack Engineer 🦀
 
-Hi there! I'm Tran Huy Duc, a passionate Blockchain developer. I love diving into complex problems and building innovative solutions in the world of decentralized technologies.
+Hi there! I'm David, a passionate Blockchain developer. I love diving into complex problems and building innovative solutions in the world of decentralized technologies.
 
 ## Skills 💥
 
