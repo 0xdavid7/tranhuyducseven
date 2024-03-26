@@ -5,7 +5,7 @@ Hi there! I'm David, a passionate Blockchain developer. I love diving into compl
 ## Skills 💥
 
 - Languages: **Rust**, **Go**, C++, JS
-- Techs: Go's libs, JS's libs, Flutter, React Native, Ethereum, Polkadot, Solana 
+- Techs: Go's libs, JS's libs, Flutter, React Native, Ethereum, Polkadot, Solana, SQL and NoSQL, DevOps
 - Areas of Study: Zero-Knowledge Proofs, Multiparty Computation, DeFi, Cryptography
 
 ## Contact 📪
