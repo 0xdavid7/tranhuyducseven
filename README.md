@@ -1,20 +1,17 @@
-# David Tran - Blockchain Developer | Fullstack Engineer 🦀
+# Hello there 👋
 
-Hi there! I'm David, a passionate Blockchain developer. I love diving into complex problems and building innovative solutions in the world of decentralized technologies.
+## My Name is David
+[<img alt="X (@tranhuyducseven)" src="https://img.shields.io/badge/%40tranhuyducseven---?style=plastic&logo=x&logoColor=white&labelColor=black&color=black">](https://www.x.com/x/tranhuyducseven/)
+[<img alt="Linked In (@tranhuyducseven)" src="https://img.shields.io/badge/%40tranhuyducseven---?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2">](https://www.linkedin.com/in/tranhuyducseven/)
 
-## Skills 💥
-
-- Languages: **Rust**, **Go**, C++, JS
-- Techs: Go's libs, JS's libs, Flutter, React Native, Ethereum, Polkadot, Solana, SQL and NoSQL, DevOps
-- Areas of Study: Zero-Knowledge Proofs, Multiparty Computation, DeFi, Cryptography
+## About Me 🦀
+- Software Engineer with 2 years of experience
+- Specializing in Rust, Go, and JavaScript
+- Proficient in Databases, Operating Systems, and DevOps
+- Enthusiast of Cryptography and Zero-Knowledge Proofs
+- Research interests include Bitcoin, Ethereum, and Solana
 
 ## Contact 📪
-
-Feel free to reach out to me via the following channels:
-
 - Email: tranhuyducseven@gmail.com
-- LinkedIn: [linkedin.com/in/tranhuyducseven](https://www.linkedin.com/in/tranhuyducseven)
 
-I'm open to exciting opportunities and collaborations, so don't hesitate to get in touch!
-
-Looking forward to connecting with you!
+## Looking forward to connecting with you! 
